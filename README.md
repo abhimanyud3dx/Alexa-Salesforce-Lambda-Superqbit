@@ -1,5 +1,7 @@
 # Alexa-Salesforce-Lambda-Superqbit
 
+Amazon Lambda Function to connect salesforce and Alexa app.
+
 Config vars needed
 
 CLIENT_ID	::	Your Connected App's Consumer Key.
